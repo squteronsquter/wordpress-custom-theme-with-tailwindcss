@@ -1,0 +1,1 @@
+# Custom Theme for a WordPress site with Tailwind CSS styles
